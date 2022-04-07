@@ -1,5 +1,5 @@
 <h2 align='center'>
-  Hi! I'm <a href="https://lynshi.net">Lyndon</a> 👀
+  Hi! I'm Lyndon 👀
 </h2>
 
 <p align='center'>
