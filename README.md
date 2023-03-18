@@ -7,12 +7,19 @@
 </p>
 
 <p align='center'>
-  Don't take the stats too seriously 🤣
+  Don't take the stats too seriously 🤣 
+</p>
+
+<p align='center'>
+  Oh, and here's my <a href="https://1drv.ms/b/s!AgueU229G5mf2xpP0q0KFwrYIPAj?e=KYJKvV">résumé</a> 😀
 </p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/lynshi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://lynshi.github.io/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
