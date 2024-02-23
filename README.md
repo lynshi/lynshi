@@ -3,11 +3,7 @@
 </h2>
 
 <p align='center'>
-  Sorry, not going to introduce myself here. But I found some cool graphics to take up this space ¯\_(ツ)_/¯
-</p>
-
-<p align='center'>
-  Don't take the stats too seriously 🤣 
+  Please don't take the stats too seriously 🤣 
 </p>
 
 <p align='center'>
