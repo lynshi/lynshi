@@ -24,9 +24,8 @@
 </p>
 
 <p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lynshi&theme=radical&count_private=true&hide=arduino,processing&custom_title=Most%20Used%20Languages*"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynshi&theme=radical&count_private=true&hide=arduino,processing&custom_title=Most%20Used%20Languages*" width="350" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lynshi&theme=radical&count_private=true&custom_title=Most%20Used%20Languages*"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynshi&theme=radical&count_private=true&hide=arduino,processing&custom_title=Most%20Used%20Languages*" width="350" /></a>
   <br>
-  *Some languages excluded. You don't need to know that 70% of my code is, for some reason, for Arduino.
 </p>
 
 #### Many thanks to
