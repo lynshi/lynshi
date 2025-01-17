@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  Oh, and here's my <a href="https://1drv.ms/b/s!AgueU229G5mf2xpP0q0KFwrYIPAj?e=KYJKvV">résumé</a> 😀
+  Oh, and here's my <a href="https://1drv.ms/b/c/9f991bbd6d539e0b/Een-aebpdNJGmmd45ronIYQBCIK_Yb2Rus4A07yZ5NsFGQ?e=nF2hiP">résumé</a> 😀
 </p>
 
 <p align='center'>
